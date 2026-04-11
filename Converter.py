@@ -4,7 +4,7 @@ def run_converter():
    
     while True:
         print("\n" + "="*30)
-        print(" KMITL ENGINEERING CONVERTER ")
+        print(" KMUTT ENGINEERING CONVERTER ")
         print("="*30)
         print("1. Celsius to Fahrenheit")
         print("2. Meters to Feet")
